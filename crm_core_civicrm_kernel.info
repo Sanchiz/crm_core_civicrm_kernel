@@ -4,6 +4,7 @@ core = 7.x
 package = CRM Core
 dependencies[] = addressfield
 dependencies[] = cck_phone
+dependencies[] = civicrm
 dependencies[] = crm_core
 dependencies[] = crm_core_activity
 dependencies[] = crm_core_contact
