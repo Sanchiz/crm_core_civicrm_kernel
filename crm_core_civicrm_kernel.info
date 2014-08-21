@@ -30,6 +30,7 @@ features[crm_core_activity_type][] = membership_renewal
 features[crm_core_activity_type][] = membership_renewal_reminder
 features[crm_core_activity_type][] = membership_signup
 features[crm_core_activity_type][] = tell_friend
+features[crm_core_data_import][] = civicrm_data_import
 features[features_api][] = api:2
 features[field_base][] = field_activity_assignee_contact
 features[field_base][] = field_activity_details
